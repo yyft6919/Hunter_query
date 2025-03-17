@@ -19,7 +19,7 @@ init(autoreset=True, convert=True)
 
 # 配置信息
 CONFIG = {
-    "api_key": "d77f09fe6807560bdda7239bf63b9340d3213376395e71050ec9ade3247f60e8",  # 在此处填写您的奇安信Hunter API密钥
+    "api_key": "",  # 在此处填写您的奇安信Hunter API密钥
     "api_url": "https://hunter.qianxin.com/openApi/search",  # 更新为正确的API接口地址
     "page_size": 100,  # 每页结果数量
     "max_page": 5,    # 最大查询页数
