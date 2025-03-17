@@ -1,0 +1,4 @@
+# Hunter网络资产归属查询工具集依赖包
+requests>=2.25.0
+pandas>=1.2.0
+colorama>=0.4.4
