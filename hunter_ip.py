@@ -326,7 +326,7 @@ def print_banner():
 │                                                                 │
 └─────────────────────────────────────────────────────────────────┘
 
-下载地址：{Fore.GREEN}https://github.com{Style.RESET_ALL}
+下载地址：{Fore.GREEN}https://github.com/yyft6919/Hunter_query{Style.RESET_ALL}
 """
     print(banner)
 
